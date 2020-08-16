@@ -277,7 +277,7 @@ namespace Member3 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Member3;V1.0.0.0;component/view%20lecturers.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Member3;component/view%20lecturers.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\View Lecturers.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

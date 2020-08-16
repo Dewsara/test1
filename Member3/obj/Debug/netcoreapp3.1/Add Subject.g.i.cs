@@ -133,7 +133,7 @@ namespace Member3 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Member3;V1.0.0.0;component/add%20subject.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Member3;component/add%20subject.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Add Subject.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
