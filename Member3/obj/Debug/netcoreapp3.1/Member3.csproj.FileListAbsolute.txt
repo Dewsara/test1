@@ -1,0 +1,78 @@
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Member3.exe
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Member3.deps.json
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Member3.runtimeconfig.json
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Member3.runtimeconfig.dev.json
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Member3.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Member3.pdb
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\App.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3_MarkupCompile.cache
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3_MarkupCompile.lref
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.g.resources
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.AssemblyInfoInputs.cache
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.AssemblyInfo.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.csproj.CoreCompileInputs.cache
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.dll
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.pdb
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.genruntimeconfig.cache
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Add Sessions.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Add Subject.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Add Sessions.baml
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Add Subject.baml
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\View Lecturers.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\View Sessions.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\View Subjects.g.cs
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\View Lecturers.baml
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\View Sessions.baml
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\View Subjects.baml
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.csproj.CopyComplete
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.csprojAssemblyReference.cache

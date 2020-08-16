@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="324-3243716_sessions-icon.png" />
+    <None Remove="78-786314_computer-user-icon-peolpe-avatar-group-people-avatar.png" />
+    <None Remove="delete.png" />
+    <None Remove="edit.png" />
+    <None Remove="icons3.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.6" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.113.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="324-3243716_sessions-icon.png" />
+    <Resource Include="78-786314_computer-user-icon-peolpe-avatar-group-people-avatar.png" />
+    <Resource Include="delete.png" />
+    <Resource Include="edit.png" />
+    <Resource Include="icons3.jpg" />
+  </ItemGroup>
+
+</Project>
