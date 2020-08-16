@@ -50,12 +50,12 @@
         <ComboBox x:Name="TagComboBox" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="10,1.5,10,1" Grid.Row="6" VerticalAlignment="Stretch" Width="240" Height="33" FontSize="18"/>
         <TextBox x:Name="StdCountTxt" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="10,1.5,10,1" Grid.Row="7"  TextWrapping="Wrap" VerticalAlignment="Stretch" Width="240" Height="33" FontSize="18"/>
         <TextBox x:Name="DurationTxt" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="10,1.5,10,1" Grid.Row="8"  TextWrapping="Wrap" VerticalAlignment="Stretch" Width="240" Height="33" FontSize="18"/>
-        
+
         <!--List View-->
         <ListView x:Name="listViewInput" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Left" Grid.Row="3" Width="240" Height="125" Margin="10,1.5,0,1.5"/>
 
         <!--Buttons-->
-        <Button x:Name="BtnViewSessions" Content="View Sessions" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Stretch"  Grid.Row="12" VerticalAlignment="Stretch" Width="225" Height="40" FontSize="22" FontWeight="Bold" FontFamily="Microsoft YaHei UI" BorderThickness="3,3,3,3" Click="BtnViewSessions_Click"/>
+        <Button x:Name="BtnViewSessions" Content="View Sessions" Grid.Column="1" Grid.ColumnSpan="3"  Grid.Row="10" Width="225" Height="40" FontSize="22" FontWeight="Bold" FontFamily="Microsoft YaHei UI" BorderThickness="3,3,3,3" Click="BtnViewSessions_Click" Margin="135,21,157,38"/>
         <Button x:Name="BtnCreateSessions" Content="Create" Grid.Column="3" Grid.ColumnSpan="3" HorizontalAlignment="Stretch"  Grid.Row="12" VerticalAlignment="Stretch" Width="125" Height="40" FontSize="22" FontWeight="Bold" FontFamily="Microsoft YaHei UI" BorderThickness="3,3,3,3"/>
         <Button x:Name="BtnSelectSessions" Content="Select" Grid.Column="5" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="28" Width="70" FontSize="20" FontWeight="Medium"/>
 
