@@ -76,3 +76,81 @@ F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstanda
 F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
 F:\SPM_Member3\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
 F:\SPM_Member3\Member3\obj\Debug\netcoreapp3.1\Member3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Member3.exe
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Member3.deps.json
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Member3.runtimeconfig.json
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Member3.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Member3.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Member3.pdb
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Add Sessions.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Add Subject.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\View Lecturers.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\View Sessions.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\View Subjects.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3_MarkupCompile.cache
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3_MarkupCompile.lref
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Add Sessions.baml
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Add Subject.baml
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\View Lecturers.baml
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\View Sessions.baml
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\View Subjects.baml
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.g.resources
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.csproj.CopyComplete
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.dll
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.pdb
+C:\Users\ASUS\Desktop\dewsara\test1\test1\Member3\obj\Debug\netcoreapp3.1\Member3.genruntimeconfig.cache

@@ -1138,19 +1138,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sky\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SPM_Member3\\Member3\\Member3.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\dewsara\\test1\\test1\\Member3\\Member3.csproj",
       "projectName": "Member3",
-      "projectPath": "F:\\SPM_Member3\\Member3\\Member3.csproj",
-      "packagesPath": "C:\\Users\\sky\\.nuget\\packages\\",
-      "outputPath": "F:\\SPM_Member3\\Member3\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\dewsara\\test1\\test1\\Member3\\Member3.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\dewsara\\test1\\test1\\Member3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1201,7 +1205,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
